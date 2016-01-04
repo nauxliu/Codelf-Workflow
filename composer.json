@@ -1,0 +1,10 @@
+{
+    "require": {
+        "skyzyx/alfred-workflow-builder": "~1.0"
+    },
+    "autoload": {
+        "files": [
+            "index.php"
+        ]
+    }
+}
